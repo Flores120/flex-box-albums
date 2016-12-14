@@ -116,8 +116,9 @@ h3 {
     width: 100%; }
 
 .icon img {
-  width: 20px;
-  height: 20px; }
+  width: 30px;
+  height: 30px;
+  margin: 0 2px 0 2px; }
 
 @media screen and (min-width: 660px) {
   .container {
